@@ -593,6 +593,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [jovergaag's easy solution] (https://github.com/jovergaag/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/jovergaag/google-homepage/blob/master/index.html)
 * [belalik's easy solution] (https://github.com/belalik/google-page) | [View in browser] (https://rawgit.com/belalik/google-page/master/index.html) 
 *  [gbhmt's easy solution] (https://github.com/gbhmt/google-homepage) | [View in browser] (https://htmlpreview.github.io/?https://github.com/gbhmt/google-homepage/blob/master/index.html)
+* [JLamoreaux's easy solution] (https://github.com/jlamoreaux/google-homepage/blob/master/index.html) | [View in browser] (https://htmlpreview.github.io/?https://github.com/jlamoreaux/google-homepage/blob/master/index.html)
 * Add your solution above this line!
 
 ## Additional Resources
